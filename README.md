@@ -22,7 +22,7 @@ Java Dna Client API is required to run this sample, it should be included in the
 
 ## Setup
 
-##To run using an IDE 
+### To run using an IDE 
 
 * Install Java.
 * Install Eclipse.
@@ -35,7 +35,7 @@ Java Dna Client API is required to run this sample, it should be included in the
 * Edit the Application.java file in the ClientApiTester project and set username, password and basePath (DNAC server Ipaddress).
 * You can then run the ClientApiTester by opening up the Application.java file, right click on the open window and select "Run As" and select "Java Application". 
 
-##To run using command line
+### To run using command line
 
 * Edit the Application.java file in the ClientApiTester project and set username, password and basePath (DNAC server Ipaddress).
 * Change into the DnacAppApi directory and run the command: 
